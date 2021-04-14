@@ -1,0 +1,9 @@
+New Pathinator:
+	Interstellar
+	Slalom
+Old Pathinator:
+	Bounce
+	Barrel
+	Galactic_Search
+
+	

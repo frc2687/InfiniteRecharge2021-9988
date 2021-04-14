@@ -1,4 +1,4 @@
-3/19/2021 4:57:27 PM
+4/1/2021 4:25:31 PM
 [General]
 Project: C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\JV 2020 Robot Project.lvproj
 Target: Target
@@ -8,90 +8,14 @@ OS: Windows NT 10.0
 [Open Top Level VIs]
 
 [Source Files]
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Bounce\Bounce1	3/19/2021 4:25:17 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Bounce\Bounce2	3/19/2021 4:21:50 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Bounce\Bounce3	3/19/2021 4:21:18 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Bounce\Bounce4	3/19/2021 4:22:20 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\3.1 Test Path	3/16/2021 9:28:59 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Barrel	3/18/2021 10:50:31 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\BarrelFastCarpet	3/18/2021 12:31:12 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Da Fird Path	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Forward	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Forward2	3/15/2021 11:55:59 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\NoMilkTodayForUnni	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\notStraight	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\PowerPortAligned	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\PowerPortFeederStation	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Slalom	3/16/2021 3:29:07 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Slalom20	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Slalom5-5	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Slalom5-7	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Slalom_Carpet	3/17/2021 10:20:34 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\SlalomFastCarpet	3/17/2021 3:20:21 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Square	3/18/2021 10:30:12 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\straight	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\TestForward	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\ToFeederStation	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\ToFeederStaton	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\ToLeftPP	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\ToRightPP	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Turn	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Turn2	3/18/2021 9:35:56 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\Untitled	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Square_Test\Square1	3/18/2021 10:30:12 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Square_Test\Square2	3/18/2021 10:30:02 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Square_Test\Square3	3/18/2021 10:25:26 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Square_Test\Square4	3/18/2021 10:25:19 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Test_Consecutive\Test-1	3/17/2021 12:13:21 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Test_Consecutive\Test-2	3/17/2021 12:13:55 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Galactic_Search\RedA	3/19/2021 4:56:03 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\BounceFaster\Bounce1	3/19/2021 4:25:17 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\BounceFaster\Bounce2	3/19/2021 4:31:50 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\BounceFaster\Bounce3	3/19/2021 4:28:58 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\BounceFaster\Bounce4	3/19/2021 4:31:24 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Interstellar\0	3/29/2021 8:00:27 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Interstellar\1	3/29/2021 8:00:05 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths\Normal Paths\SlalomFastCarpet	3/27/2021 12:12:18 PM
 
 [Output Files]
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Bounce\Bounce1	3/19/2021 4:25:17 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Bounce\Bounce2	3/19/2021 4:21:50 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Bounce\Bounce3	3/19/2021 4:21:18 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Bounce\Bounce4	3/19/2021 4:22:20 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\3.1 Test Path	3/16/2021 9:28:59 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Barrel	3/18/2021 10:50:31 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\BarrelFastCarpet	3/18/2021 12:31:12 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Da Fird Path	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Forward	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Forward2	3/15/2021 11:55:59 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\NoMilkTodayForUnni	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\notStraight	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\PowerPortAligned	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\PowerPortFeederStation	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Slalom	3/16/2021 3:29:07 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Slalom20	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Slalom5-5	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Slalom5-7	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Slalom_Carpet	3/17/2021 10:20:34 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\SlalomFastCarpet	3/17/2021 3:20:21 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Square	3/18/2021 10:30:12 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\straight	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\TestForward	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\ToFeederStation	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\ToFeederStaton	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\ToLeftPP	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\ToRightPP	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Turn	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Turn2	3/18/2021 9:35:56 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\Untitled	3/13/2021 10:35:14 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Square_Test\Square1	3/18/2021 10:30:12 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Square_Test\Square2	3/18/2021 10:30:02 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Square_Test\Square3	3/18/2021 10:25:26 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Square_Test\Square4	3/18/2021 10:25:19 AM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Test_Consecutive\Test-1	3/17/2021 12:13:21 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Test_Consecutive\Test-2	3/17/2021 12:13:55 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Galactic_Search\RedA	3/19/2021 4:56:03 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\BounceFaster\Bounce1	3/19/2021 4:25:17 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\BounceFaster\Bounce2	3/19/2021 4:31:50 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\BounceFaster\Bounce3	3/19/2021 4:28:58 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\BounceFaster\Bounce4	3/19/2021 4:31:24 PM
-C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths_depinstr.bin	3/19/2021 4:57:28 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Interstellar\0	3/29/2021 8:00:27 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Interstellar\1	3/29/2021 8:00:05 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\home\lvuser\natinst\bin\data\Paths\Normal Paths\SlalomFastCarpet	3/27/2021 12:12:18 PM
+C:\Users\Abhinav Peri\Documents\Robotics\2687_irr2020\2020-jv-infinite-recharge-master\Paths_depinstr.bin	4/1/2021 4:25:31 PM
 
-3/19/2021 4:57:28 PM
+4/1/2021 4:25:31 PM
