@@ -1,1 +1,1 @@
-# 2021 Texas cup code for the 2020 robot
+# 2021 Texas Cup code for the 2020 robot
